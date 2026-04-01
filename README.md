@@ -21,6 +21,9 @@ I don't just write code; I build tools that actually survive in the real world. 
 * **SQL Automation Engine (v1 & v2):** Developed a tool to automate SQL execution and CSV output. Increased user adoption by gathering feedback and building a knowledge sharing foundation.
   **SQL実行・自動出力ツール：** SQL実行から成果物のダウンロードまでを自動化。アンケートや教育基盤の構築を通じて、ユーザーに定着するツール（ver2）へと成長させました。
 
+* **Onboarding App for Talent Development:** Built a custom web application using Streamlit to streamline the onboarding process for new members. Integrated knowledge sharing and task tracking to accelerate team integration.
+  **人材育成用オンボーディングアプリ：** Streamlitを用いて、新メンバー向けのオンボーディング支援アプリを自社開発。ナレッジ共有とタスク管理を統合し、チームへの早期合流を仕組み化しました。
+
 ---
 
 ## 🧰 Tech Stack / 技術スタック
