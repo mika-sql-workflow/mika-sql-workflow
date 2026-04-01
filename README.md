@@ -24,12 +24,15 @@ I don't just write code; I build tools that actually survive in the real world. 
 * **Onboarding App for Talent Development:** Built a custom web application using Streamlit to streamline the onboarding process for new members. Integrated knowledge sharing and task tracking to accelerate team integration.
   **人材育成用オンボーディングアプリ：** Streamlitを用いて、新メンバー向けのオンボーディング支援アプリを自社開発。ナレッジ共有とタスク管理を統合し、チームへの早期合流を仕組み化しました。
 
+* **Looker Dashboards & System Analytics:** I don't just build tools; I help you understand how they are used. I can create Looker dashboards to track system usage, user behavior, and overall ROI.
+  **Lookerによるシステム利用調査：** ツールを作るだけでなく、その活用状況を可視化します。利用状況やユーザー行動を追跡するダッシュボードを構築し、投資対効果の明確化を支援します。
+
 ---
 
 ## 🧰 Tech Stack / 技術スタック
 - **Languages:** SQL (Expert), Python, VBA
-- **Cloud:** AWS (Certified Cloud Practitioner), GCP (BigQuery)
-- **Environment:** Linux, JupyterHub, Git
+- **Cloud:** AWS (Certified Cloud Practitioner, Athena, S3), GCP (BigQuery, Looker Studio)
+- **Environment:** Linux, JupyterHub, Git, Bitbucket
 
 ---
 
